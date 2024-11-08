@@ -2,10 +2,24 @@ body,
 html {
   margin: 0;
   padding: 0;
-
   background-color: #fff;
 }
+
 .top-section {
   background-color: #001d37;
   color: #fff;
 }
+
+h1 {
+  /* Add this to reset h1 margins */
+  margin: 0;
+  padding: 0; /* You might want to add padding if you need spacing around the text within the h1 */
+}
+
+/* Consider adding this to reset margins/padding for all headings if needed: */
+/*
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+*/
