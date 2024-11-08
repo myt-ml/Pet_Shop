@@ -1,0 +1,11 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+
+  background-color: #fff;
+}
+.top-section {
+  background-color: #001d37;
+  color: #fff;
+}
